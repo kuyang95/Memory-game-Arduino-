@@ -20,5 +20,5 @@ Development environment: <br>
 
 + 하드웨어 - Arduino Uno
 + 언어 - C
-
++ 외관
 <img width="480" alt="memorygame_pik" src="https://user-images.githubusercontent.com/11024746/93783597-d6460c00-fc66-11ea-8073-c95463802345.png">
