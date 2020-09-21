@@ -15,7 +15,7 @@ Why I planned this project:
 + 난이도가 있어보여서
 + (~~경진대회 우승하기위해~~)
 
-## 개발환경
+## 개발 환경
 Development environment: <br>
 
 + 하드웨어 - Arduino Uno
