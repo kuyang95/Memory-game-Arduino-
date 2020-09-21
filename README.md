@@ -1,1 +1,2 @@
-# memory-game-made-of-Arduino
+# 아두이노로 만든 기억력 게임
+##프로젝트 계획이유
