@@ -1,5 +1,6 @@
 # 아두이노로 만든 기억력 게임
-Project Description:
+Project description: <br>
+
 본 프로젝트는 2019년 7월 27일 서울대학교에서 열렸던 "기억안남 추가해야함" 대회 출전을 위해 제작하였습니다.
 
 랜덤으로 불빛이 점등하는 버튼 순서를 외워서 누르는 게임으로 <br>
@@ -13,3 +14,9 @@ Why I planned this project:
 + 나의 기억력에 설움을 느껴서
 + 난이도가 있어보여서
 + (~~경진대회 우승하기위해~~)
+
+## 개발환경
+Development environment: <br>
+
++ 하드웨어 - Arduino Uno
++ 언어 - C
